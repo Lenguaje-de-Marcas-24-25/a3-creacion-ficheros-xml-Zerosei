@@ -3,8 +3,8 @@
 Conocimiento básico de XML 
 
 
-[pedidos.xml](./pedidos.xml)
-[biblioteca.xml](./biblioteca.xml)
-[ciudades.xml](./ciudades.xml)
-[hechos.xml](./hechos.xml)
+[Pedidos.xml](./pedidos.xml)
+[Biblioteca.xml](./Biblioteca.xml)
+[Ciudades.xml](./ciudades.xml)
+[Hechos.xml](./hechos.xml)
 
