@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ciudades>
+    <ciudad continente="Oceanía">
+        <nombre>Sídney</nombre>
+        <pais>Australia</pais>
+    </ciudad>
+    <ciudad continente="Europa">
+        <nombre>París</nombre>
+        <pais>Francia</pais>
+    </ciudad>
+    <ciudad continente="América del Sur">
+        <nombre>Buenos Aires</nombre>
+        <pais>Argentina</pais>
+    </ciudad>
+</ciudades>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<biblioteca>
+    <libro>
+        <titulo>La sombra del viento</titulo>
+        <autor>Carlos Ruiz Zafón</autor>
+        <editorial>Planeta</editorial>
+        <añoPublicacion>2001</añoPublicacion>
+    </libro>
+    <libro>
+        <titulo>El nombre de la rosa</titulo>
+        <autor>Umberto Eco</autor>
+        <editorial>Editorial Bompiani</editorial>
+        <añoPublicacion>1980</añoPublicacion>
+    </libro>
+    <libro>
+        <titulo>Fahrenheit 451</titulo>
+        <autor>Ray Bradbury</autor>
+        <editorial>Ballantine Books</editorial>
+        <añoPublicacion>1953</añoPublicacion>
+    </libro>
+</biblioteca>

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<pedidos>
+   <pedido cod="1">
+      <fecha>15-05-2024</fecha>
+      <pu>4.00</pu>
+      <cantidad>2</cantidad>
+      <descripcion>Croissant de Chocolate</descripcion>
+      <tipo>B</tipo>
+   </pedido>
+   <pedido cod="2">
+      <fecha>28-09-2024</fecha>
+      <pu>20.00</pu>
+      <cantidad>1</cantidad>
+      <descripcion>Pizza Margarita</descripcion>
+      <tipo>A</tipo>
+   </pedido>
+   <pedido cod="3">
+      <fecha>10-11-2024</fecha>
+      <pu>3.75</pu>
+      <cantidad>5</cantidad>
+      <descripcion>Café con Leche</descripcion>
+      <tipo>C</tipo>
+   </pedido>
+</pedidos>
